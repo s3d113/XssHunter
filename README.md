@@ -1,0 +1,2 @@
+# XssHunter
+XSS vulnerabilites finder 
